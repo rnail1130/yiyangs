@@ -1,0 +1,4 @@
+#Sun Jul 07 11:50:00 CST 2019
+base.0=/Users/mac/Desktop/flutterpro/flutterap/flutter_yiyangs/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

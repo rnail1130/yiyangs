@@ -1,0 +1,4 @@
+com.yiyang.flutter_yiyangs
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
